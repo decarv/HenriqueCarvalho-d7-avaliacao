@@ -1,5 +1,5 @@
 ﻿
-namespace HenriqueCarvalhoAvaliacaoD7
+namespace D7
 {
     internal class Password
     {

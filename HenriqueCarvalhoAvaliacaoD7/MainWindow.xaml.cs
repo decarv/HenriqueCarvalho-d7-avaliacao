@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HenriqueCarvalhoAvaliacaoD7
+namespace D7
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -31,6 +31,7 @@ namespace HenriqueCarvalhoAvaliacaoD7
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
+            
             bool auth = Handlers.LoginHandler(db, usernameInput.Text, passwordInput.Text);
             Shader.Visibility = Visibility.Visible;
             if (auth)

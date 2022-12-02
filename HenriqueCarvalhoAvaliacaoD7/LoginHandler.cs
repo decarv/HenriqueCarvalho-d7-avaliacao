@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HenriqueCarvalhoAvaliacaoD7
+namespace D7
 {
     internal class Handlers
     {

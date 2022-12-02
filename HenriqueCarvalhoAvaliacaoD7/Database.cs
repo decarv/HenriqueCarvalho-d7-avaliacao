@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace HenriqueCarvalhoAvaliacaoD7
+namespace D7
 {
     internal class Database
     {
