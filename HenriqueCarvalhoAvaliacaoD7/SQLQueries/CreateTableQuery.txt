@@ -1,0 +1,4 @@
+﻿CREATE TABLE users_d7 (
+    Username varchar(255) NOT NULL,
+    HashedPassword varchar(255) NOT NULL,
+);
